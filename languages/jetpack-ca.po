@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JetPack en español\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-12 11:45+0100\n"
+"POT-Creation-Date: 2016-05-12 11:44+0100\n"
 "PO-Revision-Date: 2016-05-12 11:45+0100\n"
 "Last-Translator: Toni Ginard <toni.ginard@gmail.com>\n"
 "Language-Team: Eduardo Larequi <elarequi@gmail.com >\n"
@@ -23,71 +23,71 @@ msgstr ""
 
 #: widget-visibility/widget-conditions.php:46
 msgid "All category pages"
-msgstr "Todas las páginas de categorías"
+msgstr "Totes les pàgines de categories"
 
 #: widget-visibility/widget-conditions.php:60
 msgid "Logged In"
-msgstr "Validado"
+msgstr "Validat"
 
 #: widget-visibility/widget-conditions.php:61
 msgid "Logged Out"
-msgstr "No validado"
+msgstr "No validat"
 
 #: widget-visibility/widget-conditions.php:66
 msgid "All author pages"
-msgstr "Todas las páginas de autores"
+msgstr "Totes les pàgines dels autors"
 
 #: widget-visibility/widget-conditions.php:86
 msgid "All tag pages"
-msgstr "Todas las páginas de etiquetas"
+msgstr "Totes les pàgines d'etiquetes"
 
 #: widget-visibility/widget-conditions.php:100
 msgid "All date archives"
-msgstr "Artículos de todas las fechas"
+msgstr "Entrades de totes les dates"
 
 #: widget-visibility/widget-conditions.php:101
 msgid "Daily archives"
-msgstr "Artículos del día"
+msgstr "Entrades del dia"
 
 #: widget-visibility/widget-conditions.php:102
 msgid "Monthly archives"
-msgstr "Artículos del mes"
+msgstr "Entrades del mes"
 
 #: widget-visibility/widget-conditions.php:103
 msgid "Yearly archives"
-msgstr "Artículos del año"
+msgstr "Entrades de l'any"
 
 #: widget-visibility/widget-conditions.php:114
 msgid "Front page"
-msgstr "Página principal"
+msgstr "Portada"
 
 #: widget-visibility/widget-conditions.php:115
 msgid "Posts page"
-msgstr "Página de entradas"
+msgstr "Pàgina d'articles"
 
 #: widget-visibility/widget-conditions.php:116
 msgid "Archive page"
-msgstr "Página de archivo"
+msgstr "Pàgina d'arxiu"
 
 #: widget-visibility/widget-conditions.php:117
 msgid "404 error page"
-msgstr "Página de error 404 "
+msgstr "Pàgina d'error 404 "
 
 #: widget-visibility/widget-conditions.php:118
 msgid "Search results"
-msgstr "Resultados de búsqueda"
+msgstr "Resultats de la cerca"
 
 #: widget-visibility/widget-conditions.php:119
 msgid "Post type:"
-msgstr "Tipo de contenido:"
+msgstr "Tipus de contingut:"
 
 #: widget-visibility/widget-conditions.php:132
 msgid "Static page:"
-msgstr "Página estática:"
+msgstr "Pàgina:"
 
 #: widget-visibility/widget-conditions.php:143
 msgid "All taxonomy pages"
-msgstr "Todas las páginas de taxonomías"
+msgstr "Totes les pàgines de taxonomies"
 
 #: widget-visibility/widget-conditions.php:158
 msgid ":"
@@ -95,32 +95,32 @@ msgstr ":"
 
 #: widget-visibility/widget-conditions.php:160
 msgid "All pages"
-msgstr "Todas las páginas"
+msgstr "Totes les pàgines"
 
 #: widget-visibility/widget-conditions.php:179
 msgctxt "a heading for a list of custom post types"
 msgid "Single post:"
-msgstr "Contenido simple:"
+msgstr "Contingut simple"
 
 #: widget-visibility/widget-conditions.php:196
 msgctxt "a heading for a list of custom post archive pages"
 msgid "Archive page:"
-msgstr "Pàgina de archivo:"
+msgstr "Pàgina d'arxiu"
 
 #: widget-visibility/widget-conditions.php:210
 #, php-format
 msgctxt "a label in the list of custom post type archive pages"
 msgid "Archive of %s"
-msgstr "Archivo de %s"
+msgstr "Arxiu de %s"
 
 #: widget-visibility/widget-conditions.php:258
 msgctxt "Checkbox on Widget Visibility if choosen page has children."
 msgid "Include children"
-msgstr "Incluye los hijos"
+msgstr "Inclou els fills"
 
 #: widget-visibility/widget-conditions.php:294
 msgid "Visibility"
-msgstr "Visibilidad"
+msgstr "Visibilitat"
 
 #: widget-visibility/widget-conditions.php:297
 #, php-format
@@ -132,21 +132,21 @@ msgstr "%s si:"
 #: widget-visibility/widget-conditions.php:297
 msgctxt "Used in the \"%s if:\" translation for the widget visibility dropdown"
 msgid "Show"
-msgstr "Mostrar"
+msgstr "Mostra"
 
 #: widget-visibility/widget-conditions.php:297
 msgctxt "Used in the \"%s if:\" translation for the widget visibility dropdown"
 msgid "Hide"
-msgstr "Ocultar"
+msgstr "Amaga"
 
 #: widget-visibility/widget-conditions.php:309
 msgctxt "Used as the default option in a dropdown list"
 msgid "-- Select --"
-msgstr "-- Seleccionar --"
+msgstr "-- Seleccioneu --"
 
 #: widget-visibility/widget-conditions.php:310
 msgid "Category"
-msgstr "Categoría"
+msgstr "Categoria"
 
 #: widget-visibility/widget-conditions.php:311
 msgctxt "Noun, as in: \"The author of this post is...\""
@@ -156,7 +156,7 @@ msgstr "Autor"
 #: widget-visibility/widget-conditions.php:314
 msgctxt "Noun"
 msgid "User"
-msgstr "Usuario"
+msgstr "Usuari"
 
 #: widget-visibility/widget-conditions.php:315
 msgctxt "Noun, as in: \"The user role of that can access this widget is...\""
@@ -171,32 +171,32 @@ msgstr "Etiqueta"
 #: widget-visibility/widget-conditions.php:319
 msgctxt "Noun, as in: \"This page is a date archive.\""
 msgid "Date"
-msgstr "Fecha"
+msgstr "Data"
 
 #: widget-visibility/widget-conditions.php:320
 msgctxt "Example: The user is looking at a page, not a post."
 msgid "Page"
-msgstr "Página"
+msgstr "Pàgina"
 
 #: widget-visibility/widget-conditions.php:321
 msgctxt "Example: the user is viewing a custom post type archive."
 msgid "Post Type"
-msgstr "Tipo de contenido:"
+msgstr "Tipus de contingut"
 
 #: widget-visibility/widget-conditions.php:323
 msgctxt "Noun, as in: \"This post has one taxonomy.\""
 msgid "Taxonomy"
-msgstr "Taxonomía"
+msgstr "Taxonomia"
 
 #: widget-visibility/widget-conditions.php:327
 msgctxt ""
 "Widget Visibility: {Rule Major [Page]} is {Rule Minor [Search results]}"
 msgid "is"
-msgstr "es"
+msgstr "és"
 
 #: widget-visibility/widget-conditions.php:329
 msgid "Loading..."
-msgstr "Cargando..."
+msgstr "Carregant..."
 
 #: widget-visibility/widget-conditions.php:339
 msgctxt "Shown between widget visibility conditions."
@@ -205,8 +205,8 @@ msgstr "o"
 
 #: widget-visibility/widget-conditions.php:341
 msgid "Delete"
-msgstr "Borrar"
+msgstr "Esborra"
 
 #: widget-visibility/widget-conditions.php:341
 msgid "Add"
-msgstr "Añadir"
+msgstr "Afegeix"
