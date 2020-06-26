@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: JetPack en español\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-05-12 11:45+0100\n"
-"PO-Revision-Date: 2016-05-12 11:45+0100\n"
+"POT-Creation-Date: 2017-12-07 01:16+0100\n"
+"PO-Revision-Date: 2017-12-07 01:35+0100\n"
 "Last-Translator: Toni Ginard <toni.ginard@gmail.com>\n"
 "Language-Team: Eduardo Larequi <elarequi@gmail.com >\n"
 "Language: es_ES\n"
@@ -21,192 +21,200 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: widget-visibility/widget-conditions.php:46
+#: widget-visibility/widget-conditions.php:34
 msgid "All category pages"
 msgstr "Todas las páginas de categorías"
 
-#: widget-visibility/widget-conditions.php:60
+#: widget-visibility/widget-conditions.php:44
 msgid "Logged In"
 msgstr "Validado"
 
-#: widget-visibility/widget-conditions.php:61
+#: widget-visibility/widget-conditions.php:45
 msgid "Logged Out"
 msgstr "No validado"
 
-#: widget-visibility/widget-conditions.php:66
+#: widget-visibility/widget-conditions.php:48
 msgid "All author pages"
 msgstr "Todas las páginas de autores"
 
-#: widget-visibility/widget-conditions.php:86
+#: widget-visibility/widget-conditions.php:71
 msgid "All tag pages"
 msgstr "Todas las páginas de etiquetas"
 
-#: widget-visibility/widget-conditions.php:100
+#: widget-visibility/widget-conditions.php:81
 msgid "All date archives"
 msgstr "Artículos de todas las fechas"
 
-#: widget-visibility/widget-conditions.php:101
+#: widget-visibility/widget-conditions.php:82
 msgid "Daily archives"
 msgstr "Artículos del día"
 
-#: widget-visibility/widget-conditions.php:102
+#: widget-visibility/widget-conditions.php:83
 msgid "Monthly archives"
 msgstr "Artículos del mes"
 
-#: widget-visibility/widget-conditions.php:103
+#: widget-visibility/widget-conditions.php:84
 msgid "Yearly archives"
 msgstr "Artículos del año"
 
-#: widget-visibility/widget-conditions.php:114
+#: widget-visibility/widget-conditions.php:87
 msgid "Front page"
 msgstr "Página principal"
 
-#: widget-visibility/widget-conditions.php:115
+#: widget-visibility/widget-conditions.php:88
 msgid "Posts page"
 msgstr "Página de entradas"
 
-#: widget-visibility/widget-conditions.php:116
+#: widget-visibility/widget-conditions.php:89
 msgid "Archive page"
 msgstr "Página de archivo"
 
-#: widget-visibility/widget-conditions.php:117
+#: widget-visibility/widget-conditions.php:90
 msgid "404 error page"
 msgstr "Página de error 404 "
 
-#: widget-visibility/widget-conditions.php:118
+#: widget-visibility/widget-conditions.php:91
 msgid "Search results"
 msgstr "Resultados de búsqueda"
 
-#: widget-visibility/widget-conditions.php:119
+#: widget-visibility/widget-conditions.php:103
 msgid "Post type:"
-msgstr "Tipo de contenido:"
+msgstr "Tipo de publicación:"
 
-#: widget-visibility/widget-conditions.php:132
+#: widget-visibility/widget-conditions.php:105
+msgid "Post type Archives:"
+msgstr "Tipo de publicación"
+
+#: widget-visibility/widget-conditions.php:117
 msgid "Static page:"
 msgstr "Página estática:"
 
-#: widget-visibility/widget-conditions.php:143
+#: widget-visibility/widget-conditions.php:120
 msgid "All taxonomy pages"
 msgstr "Todas las páginas de taxonomías"
 
-#: widget-visibility/widget-conditions.php:158
-msgid ":"
-msgstr ":"
-
-#: widget-visibility/widget-conditions.php:160
+#: widget-visibility/widget-conditions.php:144
 msgid "All pages"
 msgstr "Todas las páginas"
 
-#: widget-visibility/widget-conditions.php:179
-msgctxt "a heading for a list of custom post types"
-msgid "Single post:"
-msgstr "Contenido simple:"
-
-#: widget-visibility/widget-conditions.php:196
-msgctxt "a heading for a list of custom post archive pages"
-msgid "Archive page:"
-msgstr "Pàgina de archivo:"
-
-#: widget-visibility/widget-conditions.php:210
-#, php-format
-msgctxt "a label in the list of custom post type archive pages"
-msgid "Archive of %s"
-msgstr "Archivo de %s"
-
-#: widget-visibility/widget-conditions.php:258
-msgctxt "Checkbox on Widget Visibility if choosen page has children."
-msgid "Include children"
-msgstr "Incluye los hijos"
-
-#: widget-visibility/widget-conditions.php:294
+#: widget-visibility/widget-conditions.php:218
 msgid "Visibility"
 msgstr "Visibilidad"
 
-#: widget-visibility/widget-conditions.php:297
+#: widget-visibility/widget-conditions.php:221
 #, php-format
 msgctxt ""
 "placeholder: dropdown menu to select widget visibility; hide if or show if"
 msgid "%s if:"
 msgstr "%s si:"
 
-#: widget-visibility/widget-conditions.php:297
+#: widget-visibility/widget-conditions.php:221
 msgctxt "Used in the \"%s if:\" translation for the widget visibility dropdown"
 msgid "Show"
 msgstr "Mostrar"
 
-#: widget-visibility/widget-conditions.php:297
+#: widget-visibility/widget-conditions.php:221
 msgctxt "Used in the \"%s if:\" translation for the widget visibility dropdown"
 msgid "Hide"
 msgstr "Ocultar"
 
-#: widget-visibility/widget-conditions.php:309
+#: widget-visibility/widget-conditions.php:233
 msgctxt "Used as the default option in a dropdown list"
 msgid "-- Select --"
 msgstr "-- Seleccionar --"
 
-#: widget-visibility/widget-conditions.php:310
+#: widget-visibility/widget-conditions.php:234
 msgid "Category"
 msgstr "Categoría"
 
-#: widget-visibility/widget-conditions.php:311
+#: widget-visibility/widget-conditions.php:235
 msgctxt "Noun, as in: \"The author of this post is...\""
 msgid "Author"
 msgstr "Autor"
 
-#: widget-visibility/widget-conditions.php:314
+#: widget-visibility/widget-conditions.php:238
 msgctxt "Noun"
 msgid "User"
 msgstr "Usuario"
 
-#: widget-visibility/widget-conditions.php:315
+#: widget-visibility/widget-conditions.php:239
 msgctxt "Noun, as in: \"The user role of that can access this widget is...\""
 msgid "Role"
 msgstr "Rol"
 
-#: widget-visibility/widget-conditions.php:318
+#: widget-visibility/widget-conditions.php:242
 msgctxt "Noun, as in: \"This post has one tag.\""
 msgid "Tag"
 msgstr "Etiqueta"
 
-#: widget-visibility/widget-conditions.php:319
+#: widget-visibility/widget-conditions.php:243
 msgctxt "Noun, as in: \"This page is a date archive.\""
 msgid "Date"
 msgstr "Fecha"
 
-#: widget-visibility/widget-conditions.php:320
+#: widget-visibility/widget-conditions.php:244
 msgctxt "Example: The user is looking at a page, not a post."
 msgid "Page"
 msgstr "Página"
 
-#: widget-visibility/widget-conditions.php:321
-msgctxt "Example: the user is viewing a custom post type archive."
-msgid "Post Type"
-msgstr "Tipo de contenido:"
-
-#: widget-visibility/widget-conditions.php:323
+#: widget-visibility/widget-conditions.php:246
 msgctxt "Noun, as in: \"This post has one taxonomy.\""
 msgid "Taxonomy"
 msgstr "Taxonomía"
 
-#: widget-visibility/widget-conditions.php:327
+#: widget-visibility/widget-conditions.php:250
 msgctxt ""
 "Widget Visibility: {Rule Major [Page]} is {Rule Minor [Search results]}"
 msgid "is"
 msgstr "es"
 
-#: widget-visibility/widget-conditions.php:329
-msgid "Loading..."
-msgstr "Cargando..."
+#: widget-visibility/widget-conditions.php:262
+msgctxt ""
+"Checkbox on Widget Visibility if children of the selected page should be "
+"included in the visibility rule."
+msgid "Include children"
+msgstr "Incluye los hijos"
 
-#: widget-visibility/widget-conditions.php:339
+#: widget-visibility/widget-conditions.php:269
 msgctxt "Shown between widget visibility conditions."
 msgid "or"
 msgstr "o"
 
-#: widget-visibility/widget-conditions.php:341
+#: widget-visibility/widget-conditions.php:272
+msgctxt "Shown between widget visibility conditions."
+msgid "and"
+msgstr "y"
+
+#: widget-visibility/widget-conditions.php:275
 msgid "Delete"
 msgstr "Borrar"
 
-#: widget-visibility/widget-conditions.php:341
+#: widget-visibility/widget-conditions.php:275
 msgid "Add"
 msgstr "Añadir"
+
+#: widget-visibility/widget-conditions.php:294
+msgid "Match all conditions"
+msgstr "Cumplir todas las condiciones"
+
+#~ msgid ":"
+#~ msgstr ":"
+
+#~ msgctxt "a heading for a list of custom post types"
+#~ msgid "Single post:"
+#~ msgstr "Contenido simple:"
+
+#~ msgctxt "a heading for a list of custom post archive pages"
+#~ msgid "Archive page:"
+#~ msgstr "Pàgina de archivo:"
+
+#~ msgctxt "a label in the list of custom post type archive pages"
+#~ msgid "Archive of %s"
+#~ msgstr "Archivo de %s"
+
+#~ msgctxt "Example: the user is viewing a custom post type archive."
+#~ msgid "Post Type"
+#~ msgstr "Tipo de contenido:"
+
+#~ msgid "Loading..."
+#~ msgstr "Cargando..."

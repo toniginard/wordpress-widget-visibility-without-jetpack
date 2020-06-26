@@ -5,7 +5,7 @@
  * Plugin URI: http://boluda.com
  * Description: Control what pages your widgets appear on. Based on Widget Visibility module, from Jetpack plugin, http://wordpress.org/plugins/jetpack/. Created by Eduardo Larequi, mantained by Joan Boluda
  * Author: Joan Boluda
- * Version: 1.1
+ * Version: 1.3
  * Author URI: http://boluda.com
  * License: GPL2+
  * Text Domain: jetpack
