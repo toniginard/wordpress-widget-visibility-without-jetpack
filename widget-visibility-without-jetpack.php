@@ -2,11 +2,10 @@
 
 /*
  * Plugin Name: Widget Visibility Without Jetpack
- * Plugin URI: http://boluda.com
- * Description: Control what pages your widgets appear on. Based on Widget Visibility module, from Jetpack plugin, http://wordpress.org/plugins/jetpack/. Created by Eduardo Larequi, mantained by Joan Boluda
- * Author: Joan Boluda
+ * Plugin URI: https://github.com/toniginard/wordpress-widget-visibility-without-jetpack/
+ * Description: Control what pages your widgets appear on. Based on Widget Visibility module, from Jetpack plugin, http://wordpress.org/plugins/jetpack/
+ * Author: Toni Ginard
  * Version: 1.3
- * Author URI: http://boluda.com
  * License: GPL2+
  * Text Domain: jetpack
  * Domain Path: /languages/
