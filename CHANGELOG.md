@@ -3,6 +3,10 @@
 Some versions can be found at https://wordpress.org/plugins/widget-visibility-without-jetpack/#developers
 
 
+## [1.5] - 2021-04-23
+- Updated to match Jetpack 9.6.1
+- Tested up to 5.7.1
+
 ## [1.4] - 2020-06-26
 - Updated to match Jetpack 8.6.1
 - Tested up to 5.4.2
