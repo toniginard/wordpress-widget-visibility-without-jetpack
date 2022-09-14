@@ -3,13 +3,13 @@ Contributors: toniginard, all jetpack contributors
 
 Tags: widget visibility 
 
-Requires at least: 5.1
+Requires at least: 5.9
 
-Tested up to: 5.7.1
+Tested up to: 6.0.2
 
-Stable tag: 1.5
+Stable tag: 1.6
 
-Version: 1.5
+Version: 1.6
 
 License: GPLv2 or later
 
